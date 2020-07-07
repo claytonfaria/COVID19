@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/claytonfaria/COVID19/static/css/main.0daaf817.chunk.css",
+    "main.js": "/claytonfaria/COVID19/static/js/main.453740dd.chunk.js",
+    "main.js.map": "/claytonfaria/COVID19/static/js/main.453740dd.chunk.js.map",
+    "runtime-main.js": "/claytonfaria/COVID19/static/js/runtime-main.be7806cc.js",
+    "runtime-main.js.map": "/claytonfaria/COVID19/static/js/runtime-main.be7806cc.js.map",
+    "static/js/2.84290951.chunk.js": "/claytonfaria/COVID19/static/js/2.84290951.chunk.js",
+    "static/js/2.84290951.chunk.js.map": "/claytonfaria/COVID19/static/js/2.84290951.chunk.js.map",
+    "index.html": "/claytonfaria/COVID19/index.html",
+    "precache-manifest.071b0ecc46421cfb2a3de4614ccc2e81.js": "/claytonfaria/COVID19/precache-manifest.071b0ecc46421cfb2a3de4614ccc2e81.js",
+    "service-worker.js": "/claytonfaria/COVID19/service-worker.js",
+    "static/css/main.0daaf817.chunk.css.map": "/claytonfaria/COVID19/static/css/main.0daaf817.chunk.css.map",
+    "static/js/2.84290951.chunk.js.LICENSE.txt": "/claytonfaria/COVID19/static/js/2.84290951.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/claytonfaria/COVID19/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7806cc.js",
+    "static/js/2.84290951.chunk.js",
+    "static/css/main.0daaf817.chunk.css",
+    "static/js/main.453740dd.chunk.js"
+  ]
+}
